@@ -73,10 +73,11 @@ Please make sure to update tests as appropriate.
 ## Future Work
 
 - [x] Create a baseline model for gesture classification.
+- [x] link with the Hand.
 - [x] Deploy the model as a web application.
-- [ ] Expand the dataset with more gestures and descriptions.
+- [x] Expand the dataset with more gestures and descriptions.
 - [ ] Experiment with more advanced models (e.g., Transformers, BERT).
-- [ ] Improve the user interface and user experience.
+- [x] Improve the user interface and user experience.
 - [ ] Add support for real-time gesture recognition from a camera feed.
 - [ ] Implement a feedback mechanism for users to correct misclassifications.
 
